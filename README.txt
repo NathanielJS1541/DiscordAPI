@@ -1,3 +1,4 @@
+**chicken**
 # DiscordAPI
 Discord voice channel announcer, Gif fetcher, and music player [WIP].
 ## PREREQUISUTES:
